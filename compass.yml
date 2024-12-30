@@ -1,0 +1,13 @@
+name: Metadata-Code-practice
+id: ari:cloud:compass:1051b516-7af4-47f5-9157-912549a8adef:component/f21c7ce4-c402-48e4-8dd8-7e9eb713fe26/0d3b87f5-cdc4-4939-9d78-3d8780cd5da9
+description: Experiment
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
